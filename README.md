@@ -1,2 +1,2 @@
-# ML-assignment-1
+# ML-assignments
 new repository
